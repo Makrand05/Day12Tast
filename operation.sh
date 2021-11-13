@@ -21,8 +21,6 @@ function Acending(){
 		done
 	done
 }
-
-
 function Decending(){
 
         n=${#valueArray[@]}
