@@ -1,4 +1,4 @@
-#! /bin/bash 
+#! /bin/bash -x
 count=21
 mini_diff=2
 HeadCount=0
